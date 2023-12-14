@@ -2799,7 +2799,7 @@ input, select, textarea {
 			}
 
 			.tiles article:after {
-				background-color: rgba(36, 41, 67, 0.25);
+				background-color: #663399(36, 41, 67, 0.25);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3115,7 +3115,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		background-color: #663399;
-		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
+		box-shadow: 0 0 0.25em 0 #663399(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
 		height: 3.25em;
