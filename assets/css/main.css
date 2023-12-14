@@ -2376,7 +2376,7 @@ input, select, textarea {
 		ul.pagination li {
 			display: inline-block;
 			padding-left: 0;
-			vertical-align: middle;
+			verticadi-align: middle;
 		}
 
 			ul.pagination li > .page {
